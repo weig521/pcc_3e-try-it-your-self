@@ -5,3 +5,7 @@ This is a my own work for Python Crush Course 3rd edition, an introductory progr
 In each chapter, the Tryityourself.py is the solutions to the try it yourself sessions in the book, and the practice.py is the summary and examples of the knowledge.
 
 If you have any questions about Python Crash Course, please email me at: gangwei@usf.edu or gangwei1986@gmail.com
+
+To download source code files for all chapters：
+
+  https://ehmatthes.github.io/pcc_3e
