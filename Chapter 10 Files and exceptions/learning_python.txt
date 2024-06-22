@@ -1,0 +1,5 @@
+In Python you can collect user inputs
+In python you can do mathematical calculations
+In Python you can test conditions
+In Python you can use loops
+In Python you can make use of list, dictionary, set, tuple, and more
